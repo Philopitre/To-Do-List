@@ -1,1 +1,3 @@
 # To-Do-List
+
+Philow, poursuivant son apprentissage en JavaScript, a récemment réalisé un projet pratique significatif : le développement d'une To Do List. Pour ce faire, il a tiré parti d'une ressource en ligne précieuse, une série de tutoriels vidéo sur YouTube. Le lien spécifique de la vidéo est [ici](https://www.youtube.com/watch?v=zKUjDQkofSo&list=PLuMW20nBgcbpUuBu8DUMvBN3rXtHDHGGz&index=2) Ces tutoriels offrent des instructions détaillées pour mener à bien divers projets en JavaScript. En suivant ces directives, Philow a non seulement renforcé ses compétences en programmation, mais a également réussi à créer une To Do List fonctionnelle, démontrant ainsi son engagement continu et sa capacité à apprendre de manière autodidacte.
